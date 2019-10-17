@@ -1,0 +1,11 @@
+C:\Users\kaushambi_gujral\source\repos\RMQTesterPCF\RMQTesterPCF\bin\Debug\netcoreapp2.2\RMQTesterPCF.deps.json
+C:\Users\kaushambi_gujral\source\repos\RMQTesterPCF\RMQTesterPCF\bin\Debug\netcoreapp2.2\RMQTesterPCF.runtimeconfig.json
+C:\Users\kaushambi_gujral\source\repos\RMQTesterPCF\RMQTesterPCF\bin\Debug\netcoreapp2.2\RMQTesterPCF.runtimeconfig.dev.json
+C:\Users\kaushambi_gujral\source\repos\RMQTesterPCF\RMQTesterPCF\bin\Debug\netcoreapp2.2\RMQTesterPCF.dll
+C:\Users\kaushambi_gujral\source\repos\RMQTesterPCF\RMQTesterPCF\obj\Debug\netcoreapp2.2\RMQTesterPCF.csprojAssemblyReference.cache
+C:\Users\kaushambi_gujral\source\repos\RMQTesterPCF\RMQTesterPCF\obj\Debug\netcoreapp2.2\RMQTesterPCF.csproj.CoreCompileInputs.cache
+C:\Users\kaushambi_gujral\source\repos\RMQTesterPCF\RMQTesterPCF\obj\Debug\netcoreapp2.2\RMQTesterPCF.AssemblyInfoInputs.cache
+C:\Users\kaushambi_gujral\source\repos\RMQTesterPCF\RMQTesterPCF\obj\Debug\netcoreapp2.2\RMQTesterPCF.AssemblyInfo.cs
+C:\Users\kaushambi_gujral\source\repos\RMQTesterPCF\RMQTesterPCF\bin\Debug\netcoreapp2.2\RMQTesterPCF.pdb
+C:\Users\kaushambi_gujral\source\repos\RMQTesterPCF\RMQTesterPCF\obj\Debug\netcoreapp2.2\RMQTesterPCF.dll
+C:\Users\kaushambi_gujral\source\repos\RMQTesterPCF\RMQTesterPCF\obj\Debug\netcoreapp2.2\RMQTesterPCF.pdb
